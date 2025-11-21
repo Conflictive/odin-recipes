@@ -2,7 +2,7 @@
 
 My first project for **The Odin Project** foundations curriculum. A simple, static recipe website built using only raw HTML.
 
-**[🔴 View Live Demo](https://conflictive.github.io/odin-recipes/)**
+**[View Live Demo](https://conflictive.github.io/odin-recipes/)**
 
 ## Skills Demonstrated
 * **HTML5 Structure:** Correct use of semantic tags, boilerplate, and block vs. inline elements.
